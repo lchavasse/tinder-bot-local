@@ -1,0 +1,9 @@
+.env
+.git
+.gitignore
+.DS_Store
+__pycache__
+*.pyc
+images/*
+user-data/*
+profiles.json
